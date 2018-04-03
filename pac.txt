@@ -2,7 +2,10 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
-  "www.lintcode.com": 1,
+  "aui.github.io": 1,
+  "color-themes.com": 1,
+  "lintcode.com": 1,
+  "jetbrains.com": 1,
   "stackoverflow.com": 1,
   "redisdesktop.com" : 1,
   "www.switchhost.com.au": 1,
