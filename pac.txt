@@ -2,6 +2,10 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "repo1.maven.org":1,
+  "bbc.com":1,
+  "repo2.maven.org":1,
+  "maven.org":1,
   "aui.github.io": 1,
   "color-themes.com": 1,
   "lintcode.com": 1,
